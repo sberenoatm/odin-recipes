@@ -1,1 +1,1 @@
-Primer proyecto de The Odin Project (TOP), donde creamos una web simple con diferentes recetas.
+First The Odin Project (TOP) exercice: HTML only simple recipe web.
